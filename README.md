@@ -1,6 +1,16 @@
 # hidemypage
 This is a php &amp; javascript based script which has ability to hide web pages by putting just one line code in it
 
+<h3>Banner</h3>
+
+<img src="https://i.hizliresim.com/7qyasdc.png" />
+
+<h3>Screens</h3>
+<img src="https://i.hizliresim.com/5hffuim.png" />
+<img src="https://i.hizliresim.com/nau6r1l.png" />
+<img src="https://i.hizliresim.com/m9y2nqr.png" />
+<img src="https://i.hizliresim.com/je81e9z.png" />
+
 <h3>Features</h3>
 
 <strong>- Simple usage</strong><br>
